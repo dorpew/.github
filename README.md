@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dorpew/dorpew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:434343,100:000000&height=300&section=header&text=&fontSize=0)
 
-Here are some ideas to get you started:
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+### [dorpew.is-a.dev](https://dorpew.is-a.dev)
+
+<br>
+
+## ━━━━━━━━━━━━━━━━━━━━
+
+<br>
+<br>
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:434343&height=150&section=footer)
+
+</div>
